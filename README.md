@@ -1,4 +1,4 @@
-# PixelDroid
+# Blooper
 ![PixelDroid project logo](pixeldroid_mascot.png)  
 Free (as in freedom) Android client for Pixelfed, the federated image sharing platform. Licensed under the GNU General Public License version 3 (or any later version)
 
